@@ -1,0 +1,23 @@
+.home-page{
+	display: flex;
+	flex-direction: column;	
+	align-items: center;
+}
+
+.home-header{
+	text-align: center;
+}
+
+.home-header h1{
+	margin-bottom: 0;
+	text-transform:uppercase;
+	font-size: 48px;
+}
+
+.home-header p{
+	font-style: italic;
+}
+
+.fullcontinent, .inregion{
+	margin: 2em;
+}
